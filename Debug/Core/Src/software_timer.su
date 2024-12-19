@@ -1,0 +1,3 @@
+software_timer.c:11:6:set_timer	16	static
+software_timer.c:17:5:is_time_expired	16	static
+software_timer.c:27:6:timer_run	16	static
